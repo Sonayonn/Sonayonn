@@ -25,11 +25,7 @@ I don't just write scripts; I build end-to-end data tools that solve real proble
 * **Databases & Auth:** PostgreSQL, Supabase (RLS & OAuth)
 * **Tools:** Git, GitHub, VS Code
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,anaconda,aws,bash,bootstrap,gcp,git,netlify,npm,postgres,py,yarn,sklearn)](https://skillicons.dev)
 
 ### 🌟 Featured Projects
 * **[Academic Japa Tracker](https://github.com/Sonayonn/Academic_Japa_Tracker):** A secure, multi-tenant SaaS dashboard for tracking graduate school outreach and scholarship pipelines. 
