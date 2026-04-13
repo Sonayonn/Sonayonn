@@ -12,8 +12,9 @@ I don't just write scripts; I build end-to-end data tools that solve real proble
 * 🏗️ Building full-stack SaaS and data engineering tools using **Python, Streamlit, Pandas, and Supabase**.
 * 🏗️ Researching Retrieval Augmentation Generation (RAG) Systems
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonayonn&show_icons=true&theme=default&hide_border=false)](https://github.com/Sonayonn)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonayonn&layout=compact&theme=default&hide_border=false)](https://github.com/Sonayonn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonayonn&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonayonn&layout=compact&theme=radical)
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, SQL
