@@ -6,13 +6,17 @@ I am a final-year Mechanical Engineering student (expected July 2026) transition
 
 I don't just write scripts; I build end-to-end data tools that solve real problems. 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sonayonn&theme=radical&hide_border=true)
+
 ### 🚀 What I'm Currently Up To
 * 🏎️ Leveraging Reinforcement Learning — **2x Winner of the AWS DeepRacer Student League**.
 * 📈 Competing in **Kaggle** (Quantitative Finance & Environmental Hazard Prediction).
 * 🏗️ Building full-stack SaaS and data engineering tools using **Python, Streamlit, Pandas, and Supabase**.
 * 🏗️ Researching Retrieval Augmentation Generation (RAG) Systems
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sonayonn&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonayonn&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonayonn&layout=compact&theme=radical)
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, SQL
