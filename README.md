@@ -14,10 +14,6 @@ I don't just write scripts; I build end-to-end data tools that solve real proble
 * 🏗️ Building full-stack SaaS and data engineering tools using **Python, Streamlit, Pandas, and Supabase**.
 * 🏗️ Researching Retrieval Augmentation Generation (RAG) Systems
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonayonn&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonayonn&layout=compact&theme=radical)
-
 ### 🛠️ Tech Stack
 * **Languages:** Python, SQL
 * **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly
