@@ -10,6 +10,13 @@ I don't just write scripts; I build end-to-end data tools that solve real proble
 * 🏎️ Leveraging Reinforcement Learning — **2x Winner of the AWS DeepRacer Student League**.
 * 📈 Competing in **Kaggle** (Quantitative Finance & Environmental Hazard Prediction).
 * 🏗️ Building full-stack SaaS and data engineering tools using **Python, Streamlit, Pandas, and Supabase**.
+* 🏗️ Researching Retrieval Augmentation Generation (RAG) Systems
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonayonn&show_icons=true&theme=default&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonayonn&layout=compact&theme=default&hide_border=false" height="150" alt="Top Languages" />
+</div>
+<br>
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, SQL
@@ -17,6 +24,22 @@ I don't just write scripts; I build end-to-end data tools that solve real proble
 * **Web & Full-Stack:** Streamlit, WebSockets, REST APIs
 * **Databases & Auth:** PostgreSQL, Supabase (RLS & OAuth)
 * **Tools:** Git, GitHub, VS Code
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+<br>
 
 ### 🌟 Featured Projects
 * **[Academic Japa Tracker](https://github.com/Sonayonn/Academic_Japa_Tracker):** A secure, multi-tenant SaaS dashboard for tracking graduate school outreach and scholarship pipelines. 
@@ -26,6 +49,14 @@ I don't just write scripts; I build end-to-end data tools that solve real proble
 ### 📫 Let's Connect!
 I am actively seeking **AI/ML Internships**, **Junior Data roles**, and **fully funded Master's Research Grants** for Fall 2026. 
 
-* 💼 Connect with me on (https://www.linkedin.com/in/david-ayetowo-165171229/)
-* 🐦 Follow my build journey on (https://x.com/gutss0x)
-* ✉️ Reach out via Email: davidayetowo@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-ayetowo-165171229/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/gutss0x" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="mailto:ayetowodavid@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
